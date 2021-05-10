@@ -1,0 +1,6 @@
+C:\MiniProjects\ManualResetEventSlim\bin\Debug\ManualResetEventSlim.exe.config
+C:\MiniProjects\ManualResetEventSlim\bin\Debug\ManualResetEventSlim.exe
+C:\MiniProjects\ManualResetEventSlim\bin\Debug\ManualResetEventSlim.pdb
+C:\MiniProjects\ManualResetEventSlim\obj\Debug\ManualResetEventSlim.csprojResolveAssemblyReference.cache
+C:\MiniProjects\ManualResetEventSlim\obj\Debug\ManualResetEventSlim.exe
+C:\MiniProjects\ManualResetEventSlim\obj\Debug\ManualResetEventSlim.pdb
