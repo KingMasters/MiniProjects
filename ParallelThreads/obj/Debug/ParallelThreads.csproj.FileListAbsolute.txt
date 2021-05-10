@@ -1,0 +1,6 @@
+C:\MiniProjects\ParallelThreads\bin\Debug\ParallelThreads.exe.config
+C:\MiniProjects\ParallelThreads\bin\Debug\ParallelThreads.exe
+C:\MiniProjects\ParallelThreads\bin\Debug\ParallelThreads.pdb
+C:\MiniProjects\ParallelThreads\obj\Debug\ParallelThreads.csprojResolveAssemblyReference.cache
+C:\MiniProjects\ParallelThreads\obj\Debug\ParallelThreads.exe
+C:\MiniProjects\ParallelThreads\obj\Debug\ParallelThreads.pdb
