@@ -1,0 +1,420 @@
+2017-12-08 11:33:44.4267 Info Adding target File Target[allfile]
+2017-12-08 11:33:44.4403 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:33:44.5157 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:33:44.5157 Info Adding target File Target[ownFile-web]
+2017-12-08 11:33:44.5157 Info Adding target Null Target[blackhole]
+2017-12-08 11:33:44.5157 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 11:33:44.5485 Info Found 53 configuration items
+2017-12-08 11:33:44.5648 Info Configuration initialized.
+2017-12-08 11:33:44.5648 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 11:43:02.8540 Info Adding target File Target[allfile]
+2017-12-08 11:43:02.8595 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:43:02.8930 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:43:02.8930 Info Adding target File Target[ownFile-web]
+2017-12-08 11:43:02.8930 Info Adding target Null Target[blackhole]
+2017-12-08 11:43:02.8930 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 11:43:02.9261 Info Found 53 configuration items
+2017-12-08 11:43:02.9473 Info Configuration initialized.
+2017-12-08 11:43:02.9473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 11:50:08.4248 Info Adding target File Target[allfile]
+2017-12-08 11:50:08.4248 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:50:08.4598 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:50:08.4627 Info Adding target File Target[ownFile-web]
+2017-12-08 11:50:08.4627 Info Adding target Null Target[blackhole]
+2017-12-08 11:50:08.4627 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 11:50:08.4938 Info Found 53 configuration items
+2017-12-08 11:50:08.5141 Info Configuration initialized.
+2017-12-08 11:50:08.5141 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 11:50:17.2358 Info Adding target File Target[allfile]
+2017-12-08 11:50:17.2458 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:50:17.3108 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 11:50:17.3108 Info Adding target File Target[ownFile-web]
+2017-12-08 11:50:17.3108 Info Adding target Null Target[blackhole]
+2017-12-08 11:50:17.3233 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 11:50:17.3571 Info Found 53 configuration items
+2017-12-08 11:50:17.3939 Info Configuration initialized.
+2017-12-08 11:50:17.3939 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 12:04:02.7567 Info Adding target File Target[allfile]
+2017-12-08 12:04:02.7694 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 12:04:02.8218 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 12:04:02.8218 Info Adding target File Target[ownFile-web]
+2017-12-08 12:04:02.8218 Info Adding target Null Target[blackhole]
+2017-12-08 12:04:02.8325 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 12:04:02.8559 Info Found 53 configuration items
+2017-12-08 12:04:02.8773 Info Configuration initialized.
+2017-12-08 12:04:02.8773 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:01:56.5069 Info Adding target File Target[allfile]
+2017-12-08 14:01:56.5069 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:01:56.5415 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:01:56.5415 Info Adding target File Target[ownFile-web]
+2017-12-08 14:01:56.5415 Info Adding target Null Target[blackhole]
+2017-12-08 14:01:56.5415 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:01:56.5751 Info Found 53 configuration items
+2017-12-08 14:01:56.5934 Info Configuration initialized.
+2017-12-08 14:01:56.5934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:08:45.4601 Info Adding target File Target[allfile]
+2017-12-08 14:08:45.4650 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:08:45.4978 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:08:45.4978 Info Adding target File Target[ownFile-web]
+2017-12-08 14:08:45.4978 Info Adding target Null Target[blackhole]
+2017-12-08 14:08:45.4978 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:08:45.5291 Info Found 53 configuration items
+2017-12-08 14:08:45.5477 Info Configuration initialized.
+2017-12-08 14:08:45.5477 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:08:46.0479 Info Shutting down logging...
+2017-12-08 14:08:46.0656 Info Logger has been shut down.
+2017-12-08 14:12:00.3380 Info Adding target File Target[allfile]
+2017-12-08 14:12:00.3380 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:12:00.3751 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:12:00.3751 Info Adding target File Target[ownFile-web]
+2017-12-08 14:12:00.3751 Info Adding target Null Target[blackhole]
+2017-12-08 14:12:00.3848 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:12:00.4093 Info Found 53 configuration items
+2017-12-08 14:12:00.4281 Info Configuration initialized.
+2017-12-08 14:12:00.4281 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:12:01.0525 Info Shutting down logging...
+2017-12-08 14:12:01.0738 Info Logger has been shut down.
+2017-12-08 14:13:42.5400 Info Adding target File Target[allfile]
+2017-12-08 14:13:42.5442 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:13:42.5747 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:13:42.5747 Info Adding target File Target[ownFile-web]
+2017-12-08 14:13:42.5747 Info Adding target Null Target[blackhole]
+2017-12-08 14:13:42.5747 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:13:42.6058 Info Found 53 configuration items
+2017-12-08 14:13:42.6258 Info Configuration initialized.
+2017-12-08 14:13:42.6258 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:13:53.5009 Info Shutting down logging...
+2017-12-08 14:13:53.5227 Info Logger has been shut down.
+2017-12-08 14:16:22.8248 Info Adding target File Target[allfile]
+2017-12-08 14:16:22.8248 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:16:22.8638 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:16:22.8672 Info Adding target File Target[ownFile-web]
+2017-12-08 14:16:22.8672 Info Adding target Null Target[blackhole]
+2017-12-08 14:16:22.8672 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:16:22.8958 Info Found 53 configuration items
+2017-12-08 14:16:22.9141 Info Configuration initialized.
+2017-12-08 14:16:22.9141 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:16:34.0463 Info Shutting down logging...
+2017-12-08 14:16:34.0696 Info Logger has been shut down.
+2017-12-08 14:17:51.6323 Info Adding target File Target[allfile]
+2017-12-08 14:17:51.6323 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:17:51.6673 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:17:51.6673 Info Adding target File Target[ownFile-web]
+2017-12-08 14:17:51.6673 Info Adding target Null Target[blackhole]
+2017-12-08 14:17:51.6673 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:17:51.7037 Info Found 53 configuration items
+2017-12-08 14:17:51.7229 Info Configuration initialized.
+2017-12-08 14:17:51.7229 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:18:02.5636 Info Shutting down logging...
+2017-12-08 14:18:02.5864 Info Logger has been shut down.
+2017-12-08 14:20:34.4542 Info Adding target File Target[allfile]
+2017-12-08 14:20:34.4542 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:20:34.4910 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:20:34.4910 Info Adding target File Target[ownFile-web]
+2017-12-08 14:20:34.4910 Info Adding target Null Target[blackhole]
+2017-12-08 14:20:34.4910 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:20:34.5217 Info Found 53 configuration items
+2017-12-08 14:20:34.5406 Info Configuration initialized.
+2017-12-08 14:20:34.5406 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:21:56.7191 Info Adding target File Target[allfile]
+2017-12-08 14:21:56.7191 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:21:56.7550 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:21:56.7550 Info Adding target File Target[ownFile-web]
+2017-12-08 14:21:56.7550 Info Adding target Null Target[blackhole]
+2017-12-08 14:21:56.7550 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:21:56.7845 Info Found 53 configuration items
+2017-12-08 14:21:56.8046 Info Configuration initialized.
+2017-12-08 14:21:56.8046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:21:57.2784 Info Shutting down logging...
+2017-12-08 14:21:57.2933 Info Logger has been shut down.
+2017-12-08 14:23:04.8176 Info Adding target File Target[allfile]
+2017-12-08 14:23:04.8176 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:23:04.8547 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:23:04.8547 Info Adding target File Target[ownFile-web]
+2017-12-08 14:23:04.8595 Info Adding target Null Target[blackhole]
+2017-12-08 14:23:04.8595 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:23:04.8922 Info Found 53 configuration items
+2017-12-08 14:23:04.9179 Info Configuration initialized.
+2017-12-08 14:23:04.9179 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 14:51:38.1375 Info Adding target File Target[allfile]
+2017-12-08 14:51:38.1426 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:51:38.1730 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 14:51:38.1730 Info Adding target File Target[ownFile-web]
+2017-12-08 14:51:38.1730 Info Adding target Null Target[blackhole]
+2017-12-08 14:51:38.1812 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 14:51:38.1999 Info Found 53 configuration items
+2017-12-08 14:51:38.2149 Info Configuration initialized.
+2017-12-08 14:51:38.2149 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:06:57.8995 Info Adding target File Target[allfile]
+2017-12-08 15:06:57.9036 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:06:57.9346 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:06:57.9346 Info Adding target File Target[ownFile-web]
+2017-12-08 15:06:57.9346 Info Adding target Null Target[blackhole]
+2017-12-08 15:06:57.9346 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:06:57.9662 Info Found 53 configuration items
+2017-12-08 15:06:57.9874 Info Configuration initialized.
+2017-12-08 15:06:57.9874 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:07:14.0410 Info Adding target File Target[allfile]
+2017-12-08 15:07:14.0410 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:07:14.0760 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:07:14.0760 Info Adding target File Target[ownFile-web]
+2017-12-08 15:07:14.0760 Info Adding target Null Target[blackhole]
+2017-12-08 15:07:14.0856 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:07:14.1083 Info Found 53 configuration items
+2017-12-08 15:07:14.1278 Info Configuration initialized.
+2017-12-08 15:07:14.1278 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:08:57.6147 Info Adding target File Target[allfile]
+2017-12-08 15:08:57.6147 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:08:57.6477 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:08:57.6477 Info Adding target File Target[ownFile-web]
+2017-12-08 15:08:57.6477 Info Adding target Null Target[blackhole]
+2017-12-08 15:08:57.6573 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:08:57.6803 Info Found 53 configuration items
+2017-12-08 15:08:57.6995 Info Configuration initialized.
+2017-12-08 15:08:57.6995 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:10:21.7258 Info Adding target File Target[allfile]
+2017-12-08 15:10:21.7258 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:10:21.7580 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:10:21.7580 Info Adding target File Target[ownFile-web]
+2017-12-08 15:10:21.7580 Info Adding target Null Target[blackhole]
+2017-12-08 15:10:21.7580 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:10:21.7865 Info Found 53 configuration items
+2017-12-08 15:10:21.8107 Info Configuration initialized.
+2017-12-08 15:10:21.8107 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:10:37.3855 Info Adding target File Target[allfile]
+2017-12-08 15:10:37.3855 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:10:37.4189 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:10:37.4189 Info Adding target File Target[ownFile-web]
+2017-12-08 15:10:37.4189 Info Adding target Null Target[blackhole]
+2017-12-08 15:10:37.4274 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:10:37.4525 Info Found 53 configuration items
+2017-12-08 15:10:37.4596 Info Configuration initialized.
+2017-12-08 15:10:37.4596 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:11:40.2077 Info Adding target File Target[allfile]
+2017-12-08 15:11:40.2560 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:11:40.4498 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:11:40.4498 Info Adding target File Target[ownFile-web]
+2017-12-08 15:11:40.4498 Info Adding target Null Target[blackhole]
+2017-12-08 15:11:40.4675 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:11:40.4945 Info Found 53 configuration items
+2017-12-08 15:11:40.5130 Info Configuration initialized.
+2017-12-08 15:11:40.5130 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:12:31.3686 Info Adding target File Target[allfile]
+2017-12-08 15:12:31.3725 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:12:31.4057 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:12:31.4057 Info Adding target File Target[ownFile-web]
+2017-12-08 15:12:31.4057 Info Adding target Null Target[blackhole]
+2017-12-08 15:12:31.4057 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:12:31.4377 Info Found 53 configuration items
+2017-12-08 15:12:31.4571 Info Configuration initialized.
+2017-12-08 15:12:31.4571 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:15:44.4890 Info Adding target File Target[allfile]
+2017-12-08 15:15:44.4890 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:15:44.5224 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:15:44.5224 Info Adding target File Target[ownFile-web]
+2017-12-08 15:15:44.5224 Info Adding target Null Target[blackhole]
+2017-12-08 15:15:44.5224 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:15:44.5543 Info Found 53 configuration items
+2017-12-08 15:15:44.5750 Info Configuration initialized.
+2017-12-08 15:15:44.5750 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:16:11.3533 Info Adding target File Target[allfile]
+2017-12-08 15:16:11.3533 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:16:11.3889 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:16:11.3889 Info Adding target File Target[ownFile-web]
+2017-12-08 15:16:11.3889 Info Adding target Null Target[blackhole]
+2017-12-08 15:16:11.3986 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:16:11.4207 Info Found 53 configuration items
+2017-12-08 15:16:11.4405 Info Configuration initialized.
+2017-12-08 15:16:11.4405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:22:02.5444 Info Adding target File Target[allfile]
+2017-12-08 15:22:02.5444 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:22:02.5807 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:22:02.5807 Info Adding target File Target[ownFile-web]
+2017-12-08 15:22:02.5807 Info Adding target Null Target[blackhole]
+2017-12-08 15:22:02.5807 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:22:02.6139 Info Found 53 configuration items
+2017-12-08 15:22:02.6323 Info Configuration initialized.
+2017-12-08 15:22:02.6323 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:23:13.8550 Info Configuration file change detected! Reloading in 1000ms...
+2017-12-08 15:23:13.8664 Info Configuration file change detected! Reloading in 1000ms...
+2017-12-08 15:23:13.8774 Info Configuration file change detected! Reloading in 1000ms...
+2017-12-08 15:23:14.8882 Info Reloading configuration...
+2017-12-08 15:23:14.9038 Info Found 53 configuration items
+2017-12-08 15:23:14.9066 Info Adding target File Target[allfile]
+2017-12-08 15:23:14.9066 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:23:14.9066 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:23:14.9066 Info Adding target File Target[ownFile-web]
+2017-12-08 15:23:14.9066 Info Adding target Null Target[blackhole]
+2017-12-08 15:23:14.9066 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:23:14.9066 Info Closing old configuration.
+2017-12-08 15:23:14.9455 Info Found 53 configuration items
+2017-12-08 15:23:14.9455 Info Found 53 configuration items
+2017-12-08 15:29:06.8169 Info Adding target File Target[allfile]
+2017-12-08 15:29:06.8169 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:29:06.8503 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:29:06.8503 Info Adding target File Target[ownFile-web]
+2017-12-08 15:29:06.8503 Info Adding target Null Target[blackhole]
+2017-12-08 15:29:06.8601 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:29:06.8812 Info Found 53 configuration items
+2017-12-08 15:29:06.8880 Info Configuration initialized.
+2017-12-08 15:29:06.9017 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:38:02.0477 Info Adding target File Target[allfile]
+2017-12-08 15:38:02.0624 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:38:02.1049 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:38:02.1081 Info Adding target File Target[ownFile-web]
+2017-12-08 15:38:02.1081 Info Adding target Null Target[blackhole]
+2017-12-08 15:38:02.1081 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:38:02.1569 Info Found 53 configuration items
+2017-12-08 15:38:02.1818 Info Configuration initialized.
+2017-12-08 15:38:02.1818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:39:14.4210 Info Adding target File Target[allfile]
+2017-12-08 15:39:14.4210 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:39:14.5086 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:39:14.5086 Info Adding target File Target[ownFile-web]
+2017-12-08 15:39:14.5153 Info Adding target Null Target[blackhole]
+2017-12-08 15:39:14.5153 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:39:14.5514 Info Found 53 configuration items
+2017-12-08 15:39:14.5751 Info Configuration initialized.
+2017-12-08 15:39:14.5751 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:43:43.8312 Info Adding target File Target[allfile]
+2017-12-08 15:43:43.8312 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:43:43.8678 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:43:43.8678 Info Adding target File Target[ownFile-web]
+2017-12-08 15:43:43.8713 Info Adding target Null Target[blackhole]
+2017-12-08 15:43:43.8713 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:43:43.9057 Info Found 53 configuration items
+2017-12-08 15:43:43.9286 Info Configuration initialized.
+2017-12-08 15:43:43.9286 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2017-12-08 15:49:28.0340 Info Adding target File Target[allfile]
+2017-12-08 15:49:28.0340 Error Error parsing layout aspnet-request-url will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-request-url'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:49:28.0694 Error Error parsing layout aspnet-mvc-action will be ignored. Exception: System.ArgumentException: LayoutRenderer cannot be found: 'aspnet-mvc-action'. Is NLog.Web not included?
+   at NLog.Config.Factory`2.CreateInstance(String name)
+   at NLog.Layouts.LayoutParser.ParseLayoutRenderer(ConfigurationItemFactory configurationItemFactory, SimpleStringReader sr)
+2017-12-08 15:49:28.0729 Info Adding target File Target[ownFile-web]
+2017-12-08 15:49:28.0729 Info Adding target Null Target[blackhole]
+2017-12-08 15:49:28.0729 Info Configured from an XML element in C:\Projects\CoreApiCourse\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\NLog.config...
+2017-12-08 15:49:28.1069 Info Found 53 configuration items
+2017-12-08 15:49:28.1286 Info Configuration initialized.
+2017-12-08 15:49:28.1286 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c

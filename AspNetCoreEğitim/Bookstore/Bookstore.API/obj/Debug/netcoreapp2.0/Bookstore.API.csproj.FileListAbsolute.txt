@@ -1,0 +1,12 @@
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\nlog.config
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\Bookstore.API.deps.json
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\Bookstore.API.runtimeconfig.json
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\Bookstore.API.runtimeconfig.dev.json
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\Bookstore.API.dll
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\bin\Debug\netcoreapp2.0\Bookstore.API.pdb
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\obj\Debug\netcoreapp2.0\Bookstore.API.csprojResolveAssemblyReference.cache
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\obj\Debug\netcoreapp2.0\Bookstore.API.csproj.CoreCompileInputs.cache
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\obj\Debug\netcoreapp2.0\Bookstore.API.AssemblyInfoInputs.cache
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\obj\Debug\netcoreapp2.0\Bookstore.API.AssemblyInfo.cs
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\obj\Debug\netcoreapp2.0\Bookstore.API.dll
+C:\MiniProjects\AspNetCoreEğitim\Bookstore\Bookstore.API\obj\Debug\netcoreapp2.0\Bookstore.API.pdb
